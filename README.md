@@ -1,5 +1,5 @@
 # Olympic Data Analysis
-
+End-to-end analysis of Olympic athlete performance using Python and data aggregation techniques
 ## Overview
 This project analyzes Olympic athlete data to identify trends in participation, medal distribution, and country-wise performance.
 
@@ -18,7 +18,3 @@ This project analyzes Olympic athlete data to identify trends in participation, 
 - Athlete participation across years
 - Aggregated performance metrics
 
-## How to Run
-```bash
-pip install pandas numpy matplotlib seaborn
-python main.py
